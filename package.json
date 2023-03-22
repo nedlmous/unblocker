@@ -1,0 +1,31 @@
+{
+  "name": "alloy",
+  "version": "2.5.0",
+  "description": "A web",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titaniumnetwork-dev/alloy.git"
+  },
+  "keywords": [
+    "education",
+    "school"
+  ],
+  "author": "ti----- ---work",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titaniumnetwork-dev/alloy/issues"
+  },
+  "homepage": "https://github.com/titaniumnetwork-dev/alloy#readme"
+}
