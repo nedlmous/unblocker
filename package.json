@@ -1,0 +1,40 @@
+{
+  "name": "alloy",
+  "version": "2.5.0",
+  "description": "A web",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.8",
+    "@tomphttp/bare-client": "^1.1.1",
+    "css-tree": "^2.3.1",
+    "esotope-hammerhead": "^0.6.3",
+    "events": "^3.3.0",
+    "idb": "^7.1.1",
+    "meriyah": "^4.3.5",
+    "mime-db": "^1.52.0",
+    "parse5": "^7.1.2",
+    "set-cookie-parser": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titaniumnetwork-dev/alloy.git"
+  },
+  "keywords": [
+    "education",
+    "school"
+  ],
+  "author": "ti----- ---work",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titaniumnetwork-dev/alloy/issues"
+  },
+  "homepage": "https://github.com/titaniumnetwork-dev/alloy#readme"
+}
